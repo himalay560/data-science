@@ -1,0 +1,1 @@
+Write a Pandas program to select the rows the score is between 15 and 20 (inclusive).

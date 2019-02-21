@@ -1,0 +1,2 @@
+write a python program to implement data summarization without 
+using pandas but numpy can be used.

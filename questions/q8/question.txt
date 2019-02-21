@@ -1,0 +1,1 @@
+Write a Pandas program to select the rows where the score is missing, i.e. is NaN.

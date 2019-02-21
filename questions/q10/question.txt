@@ -1,0 +1,1 @@
+Write a Pandas program to select the rows where number of attempts in the examination is less than 2 and score greater than 15.

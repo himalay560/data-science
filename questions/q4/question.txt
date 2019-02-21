@@ -1,0 +1,1 @@
+Write a Pandas program to select the 'name' and 'score' columns from the following DataFrame.

@@ -1,0 +1,2 @@
+Write a Pandas program to display a summary of the basic information about a specified DataFrame and its data.
+

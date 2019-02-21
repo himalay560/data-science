@@ -1,0 +1,1 @@
+write a python program to select the rows where the number of attempts in the examination is greater than 2.
